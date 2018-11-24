@@ -1,4 +1,4 @@
-# ml-exercises
+# learning machine learning
 
 function aproximation exercises
 
